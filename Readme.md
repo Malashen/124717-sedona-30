@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Alexey Malashenkov](https://up.htmlacademy.ru/htmlcss/30/user/124717).
-* Наставник: `Неизвестно`.
+* Наставник: [Artem Ryzhov] (https://htmlacademy.ru/profile/id1387905).
 
 ---
 
